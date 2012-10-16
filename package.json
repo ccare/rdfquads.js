@@ -14,7 +14,7 @@
 	"lazy": "1.0.7"
     }
   , "devDependencies": {
-	  "expresso": "2.5.x",
+	  "expresso": "0.9.0",
 	  "nodemock": "0.2.14"
     }
   , "main": "lib/quadParser"
